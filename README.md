@@ -19,13 +19,13 @@ It is a lightweight and beginner-friendly project suitable for 1st-year B.Tech A
 ⸻
 
 Features
-• ✔ Detects spam messages using the Naive Bayes ML model
-• ✔ Text preprocessing (cleaning, lowercasing, punctuation removal)
-• ✔ TF-IDF vectorization
-• ✔ Simple and clean Tkinter-based GUI
-• ✔ “Detect Spam” & “Clear” buttons
-• ✔ Instant on-screen results
-• ✔ Runs oﬄine
+• Detects spam messages using the Naive Bayes ML model
+• Text preprocessing (cleaning, lowercasing, punctuation removal)
+• TF-IDF vectorization
+• Simple and clean Tkinter-based GUI
+• “Detect Spam” & “Clear” buttons
+• Instant on-screen results
+• Runs oﬄine
 
 ⸻
 
@@ -46,10 +46,10 @@ Environment
 
 Steps to Install & Run the
 Project
-1⃣ Install Required Packages
-2⃣ Download or Copy the Project File
-3⃣ Run the Project
-4⃣ GUI Window Appears
+1. Install Required Packages
+2. Download or Copy the Project File
+3. Run the Project
+4. GUI Window Appears
 
 Instructions for Testing
 1. Enter any text message into the input box
