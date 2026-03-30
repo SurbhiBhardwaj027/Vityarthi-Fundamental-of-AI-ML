@@ -15,8 +15,10 @@ The application allows users to type any message and instantly predicts whether 
 • Spam
 • Not Spam (Ham)
 It is a lightweight and beginner-friendly project suitable for 1st-year B.Tech AI & ML students.
+
 ⸻
-✨ Features
+
+Features
 • ✔ Detects spam messages using the Naive Bayes ML model
 • ✔ Text preprocessing (cleaning, lowercasing, punctuation removal)
 • ✔ TF-IDF vectorization
@@ -24,8 +26,10 @@ It is a lightweight and beginner-friendly project suitable for 1st-year B.Tech A
 • ✔ “Detect Spam” & “Clear” buttons
 • ✔ Instant on-screen results
 • ✔ Runs oﬄine
+
 ⸻
-🛠 Technologies / Tools Used
+
+Technologies / Tools Used
 Programming Language
 • Python 3.x
 Libraries
@@ -37,14 +41,17 @@ Libraries
 Environment
 • Works best in Anaconda Python 3.13.5 (base)
 • Compatible with VS Code / PyCharm / Jupyter / Terminal
+
 ⸻
-📥 Steps to Install & Run the
+
+Steps to Install & Run the
 Project
 1⃣ Install Required Packages
 2⃣ Download or Copy the Project File
 3⃣ Run the Project
 4⃣ GUI Window Appears
-🧪 Instructions for Testing
+
+Instructions for Testing
 1. Enter any text message into the input box
 2. Click “Detect Spam”
 3. A popup message will display:
